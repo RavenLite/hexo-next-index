@@ -3,7 +3,7 @@
 
 # Introduction
 Currently, there are more and more text-editor softwares allowing us to take notes, record ideas, send comments and so on. It's time to use a person homepage to manage them. Hexo + NexT is a good choice to do that.
-- Preview: [Raven's Blog](https://ravenxu.top/)
+- Preview: [Github Page](http://ravenxu.top/hexo-next-index/)
 
 # What we have done?
 - Init a hexo blog project
